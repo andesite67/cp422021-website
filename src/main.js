@@ -7,6 +7,8 @@ import '@core/scss/template/index.scss'
 import '@layouts/styles/index.scss'
 
 // Create vue app
+
+
 const app = createApp(App)
 
 
