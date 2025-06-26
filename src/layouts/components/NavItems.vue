@@ -63,7 +63,6 @@ import VerticalNavLink from '@layouts/components/VerticalNavLink.vue'
     :item="{
       title: 'Front Pages',
       icon: 'ri-file-copy-line',
-      badgeContent: 'Pro',
       badgeClass: 'bg-light-primary text-primary',
     }"
   >
